@@ -12,7 +12,7 @@
   <li>🎲 <strong>Manipulação e Análise de Dados</strong>: Utilização de bibliotecas como <strong>Pandas</strong> e <strong>NumPy</strong> para tratamento, transformação e exploração de dados.</li>
   <li>📈 <strong>Visualização de Dados</strong>: Criação de gráficos e dashboards informativos com <strong>Matplotlib</strong>, <strong>Seaborn</strong> e Power BI).</li>
   <li>📊 <strong>Análise Estatística</strong>: Aplicação de conceitos estatísticos para inferência e compreensão de padrões.</li>
-  <li>📝 <strong>Storytelling com Dados</strong>: Habilidade de transformar análises complexas em <strong>narrativas claras e acionáveis</strong>.</li>
+  <li>📝 <strong>Storytelling com Dados</strong>: Habilidade de transformar análises complexas em <strong>narrativas</strong>.</li>
 </ul>
 
 <hr>
