@@ -19,7 +19,9 @@
 
 <h2>💻 <strong>Projetos Realizados</strong></h2>
 
-<h3>1️⃣ <strong>Análise de Dados do Setor Aéreo</strong></h3>
+<h3>
+  1️⃣ <a href="Análise_de_Dados_do_Setor_Aéreo_1.ipynb"><strong>Análise de Dados do Setor Aéreo</strong></a>
+</h3>
 <ul>
   <li><strong>Tema</strong>: Análise de dados do setor aéreo, com foco em companhias aéreas, rotas, atrasos e impactos da pandemia.</li>
   <li><strong>Objetivo</strong>: Entender como fatores como pandemia, rotas e sazonalidade influenciam atrasos, cancelamentos e eficiência operacional, além de prever atrasos na partida dos voos.</li>
@@ -32,8 +34,9 @@
     </ul>
   </li>
 </ul>
-
-<h3>2️⃣ <strong>Modelo de Classificação de Doenças Cardíacas</strong></h3>
+<h3>
+  2️⃣ <a href="Modelo_de_Classificação_de_Doenças_Cardíacas_.ipynb"><strong>Modelo de Classificação de Doenças Cardíacas</strong></a>
+</h3>
  <ul>
   <li><strong>Tema</strong>: Previsão da presença de doenças cardíacas com base em dados clínicos, utilizando o conjunto de dados Statlog Heart Disease.</li>
   <li><strong>Objetivo</strong>: Construir um modelo de regressão logística capaz de classificar corretamente se um indivíduo sofre ou não de doença cardíaca, com base em variáveis como pressão arterial, colesterol e frequência cardíaca.</li>
@@ -47,7 +50,9 @@
   </li>
 </ul>
 
-<h3>3️⃣ <strong>Análise de Durabilidade de Cosméticos</strong></h3>
+<h3>
+ 3️⃣ <a href="Análise_de_Durabilidade_de_Cosméticos.ipynb"><strong>Análise de Durabilidade de Cosméticos</strong></a>
+</h3>
 <ul>
   <li><strong>Tema</strong>: Avaliação da durabilidade de três diferentes fórmulas de batons, considerando fatores como exposição ao sol e idade das voluntárias.</li>
   <li><strong>Objetivo</strong>: Investigar se existe diferença estatisticamente significativa na durabilidade dos batons entre as fórmulas testadas e recomendar a mais eficaz para consumidores expostos ao sol.</li>
@@ -79,6 +84,6 @@
 <p>Sinta-se à vontade para entrar em contato para discutir qualquer um desses projetos ou oportunidades de colaboração. 🤝</p>
 
 <ul>
-  <li><strong>LinkedIn</strong>: <a href="#">https://www.linkedin.com/in/deboraqlopes/</a></li>
+  <li><a href="https://www.linkedin.com/in/deboraqlopes/">Meu perfil no LinkedIn</a></li>
   <li><strong>Email</strong>: deboralopes.ha@gmail.com</li>
 </ul>
