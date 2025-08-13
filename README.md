@@ -73,7 +73,6 @@
 <ul>
   <li><strong>Linguagens</strong>: Python, SQL</li>
   <li><strong>Bibliotecas</strong>: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</li>
-  <li><strong>Ferramentas de BI</strong>: Power BI</li>
   <li><strong>Conceitos</strong>: Limpeza de Dados, Análise Exploratória de Dados (EDA), Análise Estatística, Modelagem Preditiva, Visualização de Dados, Storytelling com Dados.</li>
 </ul>
 
